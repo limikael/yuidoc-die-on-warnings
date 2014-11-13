@@ -1,19 +1,16 @@
 {
-  "name": "yuidocjs-die-on-warnings",
+  "name": "yuidoc-die-on-warnings",
   "version": "0.0.1",
-  "description": "Preprocessor that makes yuidocjs die on warnings",
-  "main": "yuidocjs-die-on-warnings.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Preprocessor that makes yuidoc die on warnings",
+  "main": "yuidoc-die-on-warnings.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/limikael/yuidocjs-die-on-warnings.git"
+    "url": "https://github.com/limikael/yuidoc-die-on-warnings.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/limikael/yuidocjs-die-on-warnings/issues"
+    "url": "https://github.com/limikael/yuidoc-die-on-warnings/issues"
   },
-  "homepage": "https://github.com/limikael/yuidocjs-die-on-warnings"
+  "homepage": "https://github.com/limikael/yuidoc-die-on-warnings"
 }
