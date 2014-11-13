@@ -1,6 +1,6 @@
 {
   "name": "yuidoc-die-on-warnings",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Preprocessor that makes yuidoc die on warnings",
   "main": "yuidoc-die-on-warnings.js",
   "repository": {
